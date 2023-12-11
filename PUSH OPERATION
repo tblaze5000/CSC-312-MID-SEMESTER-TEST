@@ -1,7 +1,7 @@
 #include <iostream>
 
 struct Stack {
-    int size;
+    int size; 
     int top;
     double* elements;
 };
